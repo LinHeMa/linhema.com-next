@@ -73,13 +73,13 @@ export default function handler(req: NextRequest) {
             <div tw="flex w-full items-center mb-4">
               <img
                 src="https://easonchang.com/logo.png"
-                alt="Eason Chang"
+                alt="LinHeMa"
                 width={100}
                 height={100}
                 tw="flex w-[100px] h-[100px] bg-gray-300 rounded-full"
               />
               <h2 tw="text-[48px] font-bold leading-none text-slate-900 ml-6">
-                Eason Chang
+                LinHeMa
               </h2>
             </div>
             <h1 tw="w-full text-[48px] font-bold leading-none text-slate-900 mb-2 overflow-hidden max-h-[176px] shrink-0">

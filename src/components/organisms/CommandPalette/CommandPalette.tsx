@@ -82,7 +82,7 @@ export default function CommandPalette({ children }) {
       id: 'about',
       name: t('about'),
       keywords:
-        'about contact eason chang more links email github linkedin twitter facebook resume 關於 聯絡 聯繫 張楹翔 更多 連結 郵件 推特 臉書 履歷',
+        'about contact LinHeMa more links email github linkedin twitter facebook resume 關於 聯絡 聯繫 張楹翔 更多 連結 郵件 推特 臉書 履歷',
       perform: () => router.push('/about'),
       icon: <UserIcon className="h-6 w-6" />,
       section: {

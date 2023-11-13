@@ -19,7 +19,7 @@ export default function generateRSS() {
     link: siteMetadata.siteUrl,
     image: siteMetadata.siteUrl + siteMetadata.siteLogo,
     favicon: `${siteMetadata.siteUrl}/favicon.ico`,
-    copyright: `Copyright © 2015 - ${new Date().getFullYear()} Eason Chang`,
+    copyright: `Copyright © 2015 - ${new Date().getFullYear()} LinHeMa`,
     feedLinks: {
       rss2: `${siteMetadata.siteUrl}/feed.xml`,
       json: `${siteMetadata.siteUrl}/feed.json`,

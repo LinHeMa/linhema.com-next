@@ -1,9 +1,9 @@
 const siteMetadata = {
-  title: 'Eason Chang',
-  author: 'Eason Chang',
-  headerTitle: 'Eason Chang',
+  title: 'LinHeMa',
+  author: 'LinHeMa',
+  headerTitle: 'LinHeMa',
   description:
-    "This is Eason Chang's website. You can find my interesting projects, thoughts, learning notes, dev experiences, etc.",
+    "This is LinHeMa's website. You can find my interesting projects, thoughts, learning notes, dev experiences, etc.",
   language: 'zh-tw',
   theme: 'system', // system, dark or light
   siteUrl: 'https://easonchang.com',
